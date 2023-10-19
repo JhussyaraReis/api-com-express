@@ -1,2 +1,2 @@
 # api-com-express
- criando uma API com o framework express
+ Uma API simples usando o framework express. O CRUD do projeto foi testado usando o Postman
